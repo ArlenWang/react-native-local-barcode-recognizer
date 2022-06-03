@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage     = package['homepage']
   
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/ArlenWang/react-native-local-barcode-recognizer.git", :tag => "main" }
+  s.source       = { :git => "https://github.com/ArlenWang/react-native-local-barcode-recognizer.git", :tag => "v#{s.version}" }
   s.source_files  = "RNReactNativeLocalBarcodeRecognizer/**/*.{h,m}"
   s.requires_arc = true
 

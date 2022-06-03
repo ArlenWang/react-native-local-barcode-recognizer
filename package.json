@@ -1,6 +1,6 @@
 {
   "name": "@arlenwang/react-native-local-barcode-recognizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native 从本地图像识别条形码的插件 ",
   "contributors": [],
   "repository": {
@@ -24,6 +24,7 @@
   ],
   "homepage": "https://github.com/ArlenWang/react-native-local-barcode-recognizer",
   "license": "MIT",
+  "author": "arlenwang",
   "private": false,
   "peerDependencies": {
     "react": ">=16.3.1",
