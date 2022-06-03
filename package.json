@@ -1,14 +1,14 @@
 {
-  "name": "react-native-local-barcode-recognizer",
-  "version": "0.0.2",
+  "name": "@arlenwang/react-native-local-barcode-recognizer",
+  "version": "1.0.0",
   "description": "React Native 从本地图像识别条形码的插件 ",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/du6688/react-native-local-barcode-recognizer"
+    "url": "https://github.com/ArlenWang/react-native-local-barcode-recognizer"
   },
   "bugs": {
-    "url": "https://github.com/du6688/react-native-local-barcode-recognizer/issues"
+    "url": "https://github.com/ArlenWang/react-native-local-barcode-recognizer/issues"
   },
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "local",
     "image"
   ],
+  "homepage": "https://github.com/ArlenWang/react-native-local-barcode-recognizer",
   "license": "MIT",
   "private": false,
   "peerDependencies": {
